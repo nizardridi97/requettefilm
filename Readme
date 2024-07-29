@@ -4,8 +4,3 @@
 
 Ce projet contient un ensemble de 23 requêtes SQL qui permettent d'extraire et de manipuler des données d'une base de données contenant des informations sur les films, les rôles, et les artistes. Chaque requête est conçue pour répondre à une question spécifique ou pour accomplir une tâche particulière.
 
-## Structure de la Base de Données
-
-La base de données contient principalement trois tables :
-
-### Table `artiste`
